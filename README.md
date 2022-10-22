@@ -10,7 +10,7 @@
 
 # My education
 
-- Ho Chi Minh University of Information and Technology (2019-2023)
+- [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
 
 - Major: Computer Science
 
