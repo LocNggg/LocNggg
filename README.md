@@ -5,7 +5,7 @@
 - I am currently studying Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)  .
 - I have fundamental knowledge about ```Computer Vision``` ```Natural Language Processing``` ```Web Development```.
 
-- The programming languages I work with ```C++``` ```Python``` ```JavaScript```.
+- Programming languages I work with ```C++``` ```Python``` ```JavaScript```.
 
 - Database management system I use ```MySQL```
 
