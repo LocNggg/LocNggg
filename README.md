@@ -10,11 +10,8 @@
 
 # My education
 
-- [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
+- I am currently studying Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
 
-- Major: Computer Science
-
-- Class: KHCL2019.1
 
 # Contact me via
 
