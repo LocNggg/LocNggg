@@ -6,7 +6,7 @@
 
 - DOB: 16-10-2001
 
-- Address: Can Tho, Viet Nam
+- Address: Ho Chi Minh City, Viet Nam
 
 # My education
 
