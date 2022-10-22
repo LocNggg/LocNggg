@@ -16,7 +16,7 @@
 
 - Class: KHCL2019.1
 
-# Contact me at
+# Contact me via
 
 - Email: 19520687@gm.uit.edu.vn or phulocnguyen1610@gmail.com
 
