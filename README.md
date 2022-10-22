@@ -7,6 +7,8 @@ I am currently studying Computer Science at [University of Information Technolog
 
 I have fundamental knowledge about ```Computer Vision``` ```Natural Language Processing``` ```Web Development```
 
+I work with ```C++``` ```Python``` ```JavaScript```
+
 # You can contact me via
 - Email: 19520687@gm.uit.edu.vn or phulocnguyen1610@gmail.com
 
