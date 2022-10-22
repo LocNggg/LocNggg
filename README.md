@@ -8,7 +8,7 @@
 
 - Address: Can Tho, Viet Nam
 
-# Education
+# My education
 
 - Ho Chi Minh University of Information and Technology (2019-2023)
 
@@ -16,7 +16,8 @@
 
 - Class: KHCL2019.1
 
-# Contact
+# Contact me at
 
-- Email: 19520687@gm.uit.edu.vn
+- Email: 19520687@gm.uit.edu.vn or phulocnguyen1610@gmail.com
+
 
