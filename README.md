@@ -1,8 +1,7 @@
-# Personal Profile Statement
+# Hi, I'm Loc
 
-- Full name: Nguyen Phu Loc
+- My name is Nguyen Phu Loc
 
-- Student ID: 19520687
 
 - DOB: 16-10-2001
 
